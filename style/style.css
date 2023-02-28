@@ -35,11 +35,24 @@
 
   color: #18191f;
 }
+.card {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
 .card-price {
   /* font-family: "Inter";
   font-style: normal; */
   font-weight: 400;
-  font-size: 24px;
-
+  font-size: 18px;
   color: rgba(0, 0, 0, 0.87);
+}
+.product-rating {
+  font-size: 12px;
+}
+.star {
+  color: #fb8200;
+}
+.card-text {
+  font-weight: 700;
+  font-size: 14px;
+  color: #787885;
 }
