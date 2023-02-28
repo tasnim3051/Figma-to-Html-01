@@ -69,3 +69,25 @@
   line-height: 24px;
   color: rgba(224, 44, 109, 0.87);
 }
+.featured-heading {
+  font-weight: 700;
+  font-size: 38px;
+  line-height: 60px;
+  color: #0a0826;
+}
+.featured-p {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 28px;
+  color: #6c6c6c;
+}
+.featured-btn {
+  font-weight: 700;
+  font-size: 16px;
+  color: #ffffff;
+  padding: 10px 24px;
+  border: none;
+  width: 155px;
+  height: 44px;
+  background: #e02c6d;
+}
